@@ -1,10 +1,10 @@
 ﻿namespace trybank;
-
+//
 public class Trybank
 {
     public bool Logged;
     public int loggedUser;
-    
+
     //0 -> Número da conta
     //1 -> Agência
     //2 -> Senha
@@ -41,7 +41,7 @@ public class Trybank
     // 4. Construa a funcionalidade de checar o saldo
     public int CheckBalance()
     {
-        throw new NotImplementedException();   
+        throw new NotImplementedException();
     }
 
     // 5. Construa a funcionalidade de depositar dinheiro
@@ -62,5 +62,5 @@ public class Trybank
         throw new NotImplementedException();
     }
 
-   
+
 }
