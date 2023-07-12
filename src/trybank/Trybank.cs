@@ -108,7 +108,7 @@ public class Trybank
         }
         if (value > Bank[loggedUser, 3])
         {
-            throw new InvalidOperationException("Saldo insudiciente");
+            throw new InvalidOperationException("Saldo insuficiente");
         }
 
         Bank[loggedUser, 3] -= value;
