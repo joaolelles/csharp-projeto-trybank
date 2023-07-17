@@ -8,7 +8,7 @@ Aqui, você vai encontrar os detalhes de como estruturar o desenvolvimento do se
 <summary><strong>🧑‍💻 O que foi desenvolvido</strong></summary>
 
 Já pensou em criar um sistema de um banco? Nesse projeto, eu criei uma aplicação para controlar contas bancárias bem como realizar as suas operações básicas de checar um saldo, depositar, sacar e transferir dinheiro.
-Além disso, eu permiti com que nessa aplicação, você cadastre novas contas, faça login e logout no seu sistema.
+Além disso, eu permiti com que nessa aplicação, você cadastre novas contas, faça login e logout no seu sistema.         
 (Aplicação desenvolvida durante o curso da eletiva de C# na Trybe).
 
 </details>
